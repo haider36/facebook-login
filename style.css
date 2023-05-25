@@ -1,0 +1,62 @@
+#text{
+  padding: 12px 17px;
+  width: 195px;
+  border-radius: 5px;
+  
+  }
+  
+  #password{
+  padding: 12px 17px;
+  width: 195px;
+  border-radius: 5px;
+  }
+  
+  .buttn{
+  background-color: #1877f2;
+  border: none;
+  border-radius: 6px;
+  font-size: 15px;
+  padding: 8px 8px;
+  width: 212px;
+  color: aliceblue;
+  font-family: sans-serif;
+  cursor: pointer;
+  font-weight: bold;
+  }
+  .button{
+  margin-left: 433px;
+  margin-top: 200px;
+  border:none ;
+  padding: 17px 35px 43px 62px;
+  width: 245px;
+  background-color: #fff;;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  
+  }
+  .Forgotten{
+  margin-left: 50px;
+  color: #1877f2;
+  cursor: pointer;
+  }
+  .butt{
+      background-color: rgb(0, 197, 0);
+      border: none;
+      border-radius: 6px;
+      font-size: 15px;
+      padding: 14px 16px;
+      width: 212px;
+      color: aliceblue;
+      font-family: sans-serif;
+      cursor: pointer;
+      font-weight: bold;
+  }
+  .h4{
+      margin-left: 433px;
+      border: none;
+      border-radius: 6px;
+      width: 212px;
+      color: rgb(4, 4, 4);
+      font-weight: bold;
+      font-family: sans-serif;
+  }
